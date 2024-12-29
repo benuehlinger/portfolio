@@ -6,8 +6,8 @@ Welcome to my GitHub Portfolio! I’m an aspiring data scientist with a blend of
 
 ## **Education**
 
-- **M.S. in Business Analytics**, William & Mary *(December 2024)* *4.00*
-- **B.B.A in Finance**, James Madison University *(May 2021)* *3.61*
+- **M.S. in Business Analytics**, William & Mary *(December 2024)* *4.00 GPA*
+- **B.B.A in Finance**, James Madison University *(May 2021)* *3.61 GPA*
 
 ---
 
