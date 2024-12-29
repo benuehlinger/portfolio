@@ -14,11 +14,10 @@ Welcome to my GitHub Portfolio! I’m an aspiring data scientist with a blend of
 ## **Work Experience**
 
 **Modeling & Analytics Consultant @ KPMG US** *(June 2022 – Present)*  
-- Designed GenAI risk-tering framework for a mid-sized midwest bank
-- Authored GenAI and RAG addendum to risk management standard for a mid-sized midwest bank
+- Designed GenAI risk-tering framework and RAG standard for a mid-sized midwest bank
 - Led internal AI/ML model risk management research, resulting in at least three business opportunities and RFP wins
 - Implemented parameter-efficient tuning (LoRA, QLoRA, DoRA) on DistilBERT models, presenting results to internal leadership in education sessions 
-- Validated AML models for a major tech client, including rule efficacy tests and XGBoost suspicious-activity detection
+- Designed synthetic transactio testing for two machine learning models for a major tech client.
 - Validated CECL ensemble credit card model (PD, EAD, LGD), conducting sensitivity analyses, bechmarking, and stability tests for largest US credit union
 
 ---
