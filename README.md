@@ -4,6 +4,8 @@ Welcome to my GitHub Portfolio! I’m an aspiring data scientist with a blend of
 
 (571) 271-2018 • [benuehlinger@gmail.com](mailto:benuehlinger@gmail.com) • McLean, VA
 
+---
+
 ## **Education**
 
 - **M.S. in Business Analytics**, William & Mary *(December 2024)* *4.00 GPA*
