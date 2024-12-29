@@ -1,3 +1,6 @@
+## Introduction
+**Reach me at**: (571) 271-2018 • [benuehlinger@gmail.com](mailto:benuehlinger@gmail.com) • Leesburg, VA / McLean, VA
+
 Welcome to my GitHub Portfolio! I’m an aspiring data scientist with a blend of business and technical expertise, particularly in modeling and analytics within the finance and risk management space.
 
 ## **Education**
