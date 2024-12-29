@@ -32,8 +32,7 @@ Welcome to my GitHub Portfolio! I’m an aspiring data scientist with a blend of
 **COVID-19: A Black Swan?** *May 2021, James Madison Honors Capstone*  
 - Applied Nassim Taleb’s tail-risk framework to assess the pandemic’s predictability and impact compared to other low-probability, high-impact events like 9/11 and the 2008 global financial crisis.  
 - Performed cointegration tests and visually inspected returns of 11 SPDR Sector ETFs.
-- [LinkedIn post](https://www.linkedin.com/posts/benuehlinger_covid-19-a-black-swan-activity-6805583797850005505-TC78?utm_source=share&utm_medium=member_desktop).
-- (571) 271-2018 • [LinkedIn Post]([mailto:benuehlinger@gmail.com](https://www.linkedin.com/posts/benuehlinger_covid-19-a-black-swan-activity-6805583797850005505-TC78?utm_source=share&utm_medium=member_desktop)) • Leesburg, VA / McLean, VA
+- [LinkedIn post](https://www.linkedin.com/posts/benuehlinger_covid-19-a-black-swan-activity-6805583797850005505-TC78?utm_source=share&utm_medium=member_desktop) with results.
 
 ---
 
