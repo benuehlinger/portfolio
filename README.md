@@ -17,7 +17,7 @@ Welcome to my GitHub Portfolio! I’m an aspiring data scientist with a blend of
 - Designed GenAI risk-tering framework and RAG standard for a mid-sized midwest bank
 - Led internal AI/ML model risk management research, resulting in at least three business opportunities and RFP wins
 - Implemented parameter-efficient tuning (LoRA, QLoRA, DoRA) on DistilBERT models, presenting results to internal leadership in education sessions 
-- Designed synthetic transactio testing for two machine learning models for a major tech client.
+- Designed synthetic transaction testing for two machine learning models for a major tech client.
 - Validated CECL ensemble credit card model (PD, EAD, LGD), conducting sensitivity analyses, bechmarking, and stability tests for largest US credit union
 
 ---
