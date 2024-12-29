@@ -66,16 +66,19 @@ Applied Nassim Taleb’s tail-risk framework to assess the pandemic’s predicta
 
 ## 🎓 Education & Certifications
 
-**College of William & Mary**  
-Master of Science in Business Analytics (MSBA)  
-*(August 2023 – December 2024)*  
-- Cumulative GPA: 4.00  
-- Relevant Coursework: Machine Learning & Predictive Analytics, Decision Modeling, Big Data & Cloud Computing, Optimization & Prescriptive Analytics, Database & Data Warehouses
+### College of William & Mary (August 2023 – December 2024)
+#### **Master of Science in Business Analytics (MSBA)**
+- Cumulative GPA: 4.00
+- Relevant Coursework:
+  - Machine Learning & Predictive Analytics  
+  - Decision Modeling  
+  - Big Data & Cloud Computing  
+  - Optimization & Prescriptive Analytics  
+  - Database & Data Warehouses  
 
-**James Madison University**  
-Bachelor of Business Administration in Finance  
-*(August 2017 – May 2021)*  
-- Cumulative GPA: 3.61  
+### James Madison University (August 2017 – May 2021)
+#### **Bachelor of Business Administration in Finance**
+- Cumulative GPA: 3.61
 
 ---
 
