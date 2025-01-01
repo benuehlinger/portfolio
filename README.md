@@ -27,8 +27,8 @@ Welcome to my GitHub Portfolio! I’m an aspiring data scientist with a blend of
 ## **Personal and Educational Projects**
 
 **Reverse-Engineering CMS Star Algorithm** *December 2024, William & Mary Capstone*  
-- The CMS Star Rating is a 1-to-5-star quality metric from CMS that summarizes multiple measure categories.  
-- Our three-person team replicated the rating algorithm for 4,000+ hospitals, used machine learning to identify key measures, and simulated future star changes for Riverside Hospital.
+- The CMS Star Rating quality metric from CMS that clusters hospitals into measure groups, and scores them on a scale of 1-to-5.
+- Using publicly available information, our three-person team replicated the rating algorithm for 4,000+ hospitals, used machine learning to identify key measures, and simulated future star rating changes to deliver insights to our client, Riverside Hospital.
 
 **COVID-19: A Black Swan?** *May 2021, James Madison Honors Capstone*  
 - Applied Nassim Taleb’s tail-risk framework to assess the pandemic’s predictability and impact compared to other low-probability, high-impact events like 9/11 and the 2008 global financial crisis.  
