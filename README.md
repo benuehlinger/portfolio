@@ -31,6 +31,10 @@ Welcome to my GitHub Portfolio! I’m an aspiring data scientist with a blend of
 - The CMS Star Rating quality metric from CMS that clusters hospitals into measure groups, and scores them on a scale of 1-to-5.
 - Using publicly available information, our three-person team replicated the rating algorithm for 4,000+ hospitals, used machine learning to identify key measures, and simulated future star rating changes to deliver insights to our client, Riverside Hospital.
 
+**Low Rank Adaptation (LoRA) for Finetuning LLMs** *September 2024*  
+- Performed research to understand how LoRA can make fine-tuning LLMs more efficient.
+- The results are summarized in this [Medium post](https://medium.com/@benuehlinger/low-rank-adaptation-lora-for-fine-tuning-llms-2a04ba28b3a2), and the code is posted on [GitHub](https://github.com/benuehlinger/LoRA-finetune).
+
 **COVID-19: A Black Swan?** *May 2021, James Madison Honors Capstone*  
 - Applied Nassim Taleb’s tail-risk framework to assess the pandemic’s predictability and impact compared to other low-probability, high-impact events like 9/11 and the 2008 global financial crisis.  
 - Performed cointegration tests and visually inspected returns of 11 SPDR Sector ETFs.
