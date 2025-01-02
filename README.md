@@ -15,7 +15,7 @@ Welcome to my GitHub Portfolio! I’m an aspiring data scientist with a blend of
 
 ## **Work Experience**
 
-**Modeling & Analytics Consultant @ KPMG US** *(June 2022 – Present)*  
+**Modeling & Analytics Consultant @ KPMG US** *(June 2021 – Present)*  
 - Designed GenAI risk-tering framework and Retrieval Augmented Generation (RAG) model risk standard for a mid-sized midwest bank
 - Led internal AI/ML model risk management research, resulting in at least three business opportunities and RFP wins
 - Implemented parameter-efficient tuning (LoRA, QLoRA, DoRA) on DistilBERT models, presenting results to internal leadership in education sessions 
