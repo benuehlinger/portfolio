@@ -28,7 +28,7 @@ Welcome to my GitHub Portfolio! I’m an aspiring data scientist with a blend of
 **Reverse-Engineering CMS Star Algorithm** *December 2024, William & Mary Capstone*  
 - The CMS Star Rating quality metric from CMS that clusters hospitals into measure groups, and scores them on a scale of 1-to-5.
 - Using publicly available information, our three-person team replicated the rating algorithm for 4,000+ hospitals, used machine learning to identify key measures, and simulated future star rating changes to deliver insights to our client, Riverside Hospital.
-- The project is posted on [GitHub](https://github.com/benuehlinger/WM-Capstone)
+- The project is posted on [GitHub](https://github.com/benuehlinger/WM-Capstone).
 
 **Low Rank Adaptation (LoRA) for Finetuning LLMs** *September 2024*  
 - Performed research to understand how LoRA can make fine-tuning LLMs more efficient.
