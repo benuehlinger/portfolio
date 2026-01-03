@@ -14,11 +14,12 @@ Welcome to my GitHub Portfolio! I’m an aspiring data scientist with a blend of
 ## **Work Experience**
 
 **Modeling & Analytics Consultant @ KPMG US** *(June 2021 – Present)*  
+- Developed CECL C&I Probability of Default, Prepayment and UAD models for a midwest regional bank in DataBricks (Python), conducting daily coding workshops with the data science team to showcase progress.
+- Validated CECL ensemble credit card model (PD, EAD, LGD), conducting sensitivity analyses, bechmarking, and stability tests for largest US credit union
 - Designed GenAI risk-tering framework and Retrieval Augmented Generation (RAG) model risk standard for a mid-sized midwest bank
 - Led internal AI/ML model risk management research, resulting in at least three business opportunities and RFP wins
 - Implemented parameter-efficient tuning (LoRA, QLoRA, DoRA) on DistilBERT models, presenting results to internal leadership in education sessions 
 - Designed synthetic transaction testing for two machine learning models for a major tech client.
-- Validated CECL ensemble credit card model (PD, EAD, LGD), conducting sensitivity analyses, bechmarking, and stability tests for largest US credit union
 - Collaborate with multiple large banks throughout quarterly CECL accounting process to review entity's ongoing performance monitoring
 
 ---
