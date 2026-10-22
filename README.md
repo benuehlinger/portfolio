@@ -14,13 +14,39 @@ Welcome to my GitHub Portfolio! I’m an aspiring data scientist with a blend of
 ## **Work Experience**
 
 **Modeling & Analytics Consultant @ KPMG US** *(June 2021 – Present)*  
+- Manage two large staff augmentation workstreams within a large U.S. bank's quantitative office, leading teams of 12 and 7 that build models for the Credit Loss and Wholesale Risk Rating teams. The role calls for daily stakeholder engagement and hands-on technical expertise.
 - Developed CECL C&I Probability of Default, Prepayment and UAD models for a midwest regional bank in DataBricks (Python), conducting daily coding workshops with the data science team to showcase progress.
-- Validated CECL ensemble credit card model (PD, EAD, LGD), conducting sensitivity analyses, bechmarking, and stability tests for largest US credit union
-- Designed GenAI risk-tering framework and Retrieval Augmented Generation (RAG) model risk standard for a mid-sized midwest bank
+- Validated CECL ensemble credit card model (PD, EAD, LGD), conducting sensitivity analyses, benchmarking, and stability tests for largest US credit union
+- Designed GenAI risk-tiering framework and Retrieval Augmented Generation (RAG) model risk standard for a mid-sized midwest bank
 - Led internal AI/ML model risk management research, resulting in at least three business opportunities and RFP wins
 - Implemented parameter-efficient tuning (LoRA, QLoRA, DoRA) on DistilBERT models, presenting results to internal leadership in education sessions 
 - Designed synthetic transaction testing for two machine learning models for a major tech client.
 - Collaborate with multiple large banks throughout quarterly CECL accounting process to review entity's ongoing performance monitoring
+
+---
+
+## **Products Built at KPMG**
+
+**ReserveIQ**  
+- Built for financial due diligence (FDD) engagements where a lender needs a credit mark on a loan portfolio, which means building fast credit loss models on tight timelines. Much of that work repeats from deal to deal, so I turned it into a low-code tool.
+- Built a Python/Streamlit reserve analytics app that ingests any bank's loan tape through schema-flexible column mapping. I chose Streamlit because the modeling team already works in Python, so analysts get a point-and-click interface on top of the same code without a separate front-end build.
+- Fits panel logit PD (statsmodels) and LGD models and computes ECL = PD × LGD × balance.
+- Stress-tests with Federal Reserve CCAR scenario paths joined to FRED macro history. LLM narration (gpt-oss-120b on Azure AI Foundry) auto-generates a PowerPoint (Plotly, python-pptx), cutting reserve analysis from 4 weeks to 4 days by eliminating most manual model-building hours, the main cost on FDD engagements.
+- Presented firm-wide at an all-hands.
+- Deployed as a Docker container on Azure Container Apps with Azure AD sign-in, per-user data separation and GitHub Actions CI/CD.
+
+**CreditIQ**  
+- Scaled ReserveIQ into a multi-portfolio credit risk platform with tailored consumer, mortgage and commercial risk views.
+- Integrated the FRED and Federal Reserve scenario APIs, and added Azure AD single sign-on, per-user data isolation and YAML-versioned configs.
+- Built the executive-facing front end, taking the tool from a single-user prototype to a secure, multi-user platform.
+- Presented to C-suite leaders at a national banking industry conference.
+
+**DecisionIQ**  
+- Built an AI infrastructure decision-modeling tool for a major tech company with heavy AI investment exposure, helping leadership decide whether acquisitions are feasible and, if so, which targets make sense.
+- **Capacity model:** projects AI capex commitments against ad revenue through free cash flow to M&A capacity, showing how much room the company has to act under each internal scenario.
+- **Contagion model:** maps deals and dependencies across the AI ecosystem as a network graph (NetworkX) and scores each entity on opportunity and threat, flagging which targets strengthen the company's position and which carry spillover risk.
+- Runs both models across scenario sweeps, replacing single-point forecasts with a quantified downside view on multibillion-dollar capex. Built in Python/Streamlit on Azure.
+- Presented twice to the company's Chief Accounting Officer.
 
 ---
 
