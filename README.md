@@ -43,6 +43,42 @@ Welcome to my portfolio! I'm a credit risk modeler and product developer at KPMG
 - Presented to C-suite leaders at a national banking industry conference.
 - Deployed as a Docker container on Azure Container Apps with Azure AD single sign-on, per-user data isolation and YAML-versioned configs.
 
+<div class="ciq-carousel">
+<style>
+.ciq-carousel{position:relative;margin:12px 0 4px}
+.ciq-track{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;scroll-behavior:smooth;border-radius:6px;border:1px solid #e5e5e5;scrollbar-width:none}
+.ciq-track::-webkit-scrollbar{display:none}
+.ciq-slide{flex:0 0 100%;scroll-snap-align:start;margin:0;background:#0d1117}
+.ciq-slide img{display:block;width:100%;height:auto;border:0}
+.ciq-slide figcaption{background:#fff;color:#727272;font-size:13px;line-height:1.45;padding:8px 2px 0}
+.ciq-nav{display:flex;align-items:center;justify-content:center;gap:10px;margin-top:6px}
+.ciq-nav button{border:1px solid #ddd;background:#fff;color:#555;border-radius:4px;padding:2px 10px;cursor:pointer;font-size:14px}
+.ciq-dots{display:flex;gap:6px}
+.ciq-dots span{width:7px;height:7px;border-radius:50%;background:#ccc;cursor:pointer}
+.ciq-dots span.on{background:#555}
+</style>
+<div class="ciq-track">
+<figure class="ciq-slide"><a href="assets/img/creditiq/01.jpg" target="_blank"><img src="assets/img/creditiq/01.jpg" alt="CreditIQ Portfolio roll-up" loading="lazy"></a><figcaption><strong>1/6 · Portfolio roll-up.</strong> Champion models across three books, stressed under the Fed severely adverse scenario.</figcaption></figure>
+<figure class="ciq-slide"><a href="assets/img/creditiq/02.jpg" target="_blank"><img src="assets/img/creditiq/02.jpg" alt="CreditIQ Panel" loading="lazy"></a><figcaption><strong>2/6 · Panel.</strong> Realized default rates over time, with automated data integrity checks.</figcaption></figure>
+<figure class="ciq-slide"><a href="assets/img/creditiq/03.jpg" target="_blank"><img src="assets/img/creditiq/03.jpg" alt="CreditIQ Macro variable search" loading="lazy"></a><figcaption><strong>3/6 · Macro variable search.</strong> 650 candidate macro terms ranked against the default rate.</figcaption></figure>
+<figure class="ciq-slide"><a href="assets/img/creditiq/04.jpg" target="_blank"><img src="assets/img/creditiq/04.jpg" alt="CreditIQ PD model" loading="lazy"></a><figcaption><strong>4/6 · PD model.</strong> Fitted specification with coefficients, standard errors, VIF and contribution.</figcaption></figure>
+<figure class="ciq-slide"><a href="assets/img/creditiq/05.jpg" target="_blank"><img src="assets/img/creditiq/05.jpg" alt="CreditIQ Scenarios" loading="lazy"></a><figcaption><strong>5/6 · Scenarios.</strong> ECL attribution bridge and cumulative expected loss over the horizon.</figcaption></figure>
+<figure class="ciq-slide"><a href="assets/img/creditiq/06.jpg" target="_blank"><img src="assets/img/creditiq/06.jpg" alt="CreditIQ Versions" loading="lazy"></a><figcaption><strong>6/6 · Versions.</strong> Saved models with reproducible IDs and a lineage graph.</figcaption></figure>
+</div>
+<div class="ciq-nav"><button type="button" class="ciq-prev" aria-label="Previous">&#8249;</button><div class="ciq-dots"></div><button type="button" class="ciq-next" aria-label="Next">&#8250;</button></div>
+<script>
+(function(){var c=document.currentScript.parentNode,t=c.querySelector('.ciq-track'),s=t.children,d=c.querySelector('.ciq-dots');
+for(var i=0;i<s.length;i++){var b=document.createElement('span');b.dataset.i=i;b.onclick=function(){go(+this.dataset.i)};d.appendChild(b)}
+function cur(){return Math.round(t.scrollLeft/t.clientWidth)}
+function go(i){i=(i+s.length)%s.length;t.scrollTo({left:i*t.clientWidth})}
+function mark(){var k=cur();for(var j=0;j<d.children.length;j++)d.children[j].className=j==k?'on':''}
+c.querySelector('.ciq-prev').onclick=function(){go(cur()-1)};c.querySelector('.ciq-next').onclick=function(){go(cur()+1)};
+t.addEventListener('scroll',function(){clearTimeout(t._m);t._m=setTimeout(mark,60)});mark();})();
+</script>
+</div>
+<p style="font-size:12px;color:#999;margin-top:2px">Screenshots use synthetic demonstration data. Click an image to open it full size.</p>
+
+
 **DecisionIQ**  
 - Built an AI infrastructure decision-modeling tool for a major tech company with heavy AI investment exposure, helping leadership decide whether acquisitions are feasible and, if so, which targets make sense.
 - Capacity model: projects AI capex commitments against ad revenue through free cash flow to M&A capacity, showing how much room the company has to act under each internal scenario.
