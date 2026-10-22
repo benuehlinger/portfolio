@@ -1,4 +1,4 @@
-Welcome to my GitHub Portfolio! I’m an aspiring data scientist with a blend of business and technical expertise, particularly in modeling and analytics within the finance and risk management space.
+Welcome to my portfolio! I'm a credit risk modeler and product developer at KPMG, where I build and own analytics tools. My work sits at the intersection of finance, risk management and data science: leading model development teams, and designing the products that make that work faster.
 
 (571) 271-2018 • [benuehlinger@gmail.com](mailto:benuehlinger@gmail.com) • McLean, VA
 
