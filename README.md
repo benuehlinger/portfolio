@@ -43,8 +43,8 @@ Welcome to my portfolio! I'm a credit risk modeler and product developer at KPMG
 
 **DecisionIQ**  
 - Built an AI infrastructure decision-modeling tool for a major tech company with heavy AI investment exposure, helping leadership decide whether acquisitions are feasible and, if so, which targets make sense.
-- **Capacity model:** projects AI capex commitments against ad revenue through free cash flow to M&A capacity, showing how much room the company has to act under each internal scenario.
-- **Contagion model:** maps deals and dependencies across the AI ecosystem as a network graph (NetworkX) and scores each entity on opportunity and threat, flagging which targets strengthen the company's position and which carry spillover risk.
+- Capacity model: projects AI capex commitments against ad revenue through free cash flow to M&A capacity, showing how much room the company has to act under each internal scenario.
+- Contagion model: maps deals and dependencies across the AI ecosystem as a network graph (NetworkX) and scores each entity on opportunity and threat, flagging which targets strengthen the company's position and which carry spillover risk.
 - Runs both models across scenario sweeps, replacing single-point forecasts with a quantified downside view on multibillion-dollar capex. Built in Python/Streamlit on Azure.
 - Presented twice to the company's Chief Accounting Officer.
 
