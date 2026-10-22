@@ -36,10 +36,12 @@ Welcome to my portfolio! I'm a credit risk modeler and product developer at KPMG
 - Deployed as a Docker container on Azure Container Apps with Azure AD sign-in, per-user data separation and GitHub Actions CI/CD.
 
 **CreditIQ**  
-- Scaled ReserveIQ into a multi-portfolio credit risk platform with tailored consumer, mortgage and commercial risk views.
-- Integrated the FRED and Federal Reserve scenario APIs, and added Azure AD single sign-on, per-user data isolation and YAML-versioned configs.
-- Built the executive-facing front end, taking the tool from a single-user prototype to a secure, multi-user platform.
+- Rebuilt ReserveIQ from a Streamlit prototype into a full model development workbench for consumer, mortgage and commercial real estate books.
+- Moved the UI to React/TypeScript (Vite, Tailwind, ECharts, Zustand, TanStack Query) on a FastAPI backend, so heavy model fits run only when a user asks and switching views costs no compute.
+- Every model is identified by a hash of its specification and data, making results cacheable and saved versions immutable and exactly reproducible.
+- Automated variable selection, optimal binning, loan tape ingestion with validation, backtesting, and PD + LGD projection through 2026 Fed supervisory scenarios with FRED macro history. Backed by a backend test suite and browser tests.
 - Presented to C-suite leaders at a national banking industry conference.
+- Deployed as a Docker container on Azure Container Apps with Azure AD single sign-on, per-user data isolation and YAML-versioned configs.
 
 **DecisionIQ**  
 - Built an AI infrastructure decision-modeling tool for a major tech company with heavy AI investment exposure, helping leadership decide whether acquisitions are feasible and, if so, which targets make sense.
