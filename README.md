@@ -31,7 +31,7 @@ Welcome to my portfolio! I'm a credit risk modeler and product developer at KPMG
 - Built for financial due diligence (FDD) engagements where a lender needs a credit mark on a loan portfolio, which means building fast credit loss models on tight timelines. Much of that work repeats from deal to deal, so I turned it into a low-code tool.
 - Built a Python/Streamlit reserve analytics app that ingests any bank's loan tape through schema-flexible column mapping. I chose Streamlit because the modeling team already works in Python, so analysts get a point-and-click interface on top of the same code without a separate front-end build.
 - Fits panel logit PD (statsmodels) and LGD models and computes ECL = PD × LGD × balance.
-- Stress-tests with Federal Reserve CCAR scenario paths joined to FRED macro history. LLM narration (gpt-oss-120b on Azure AI Foundry) auto-generates a PowerPoint (Plotly, python-pptx), cutting reserve analysis from 4 weeks to 4 days by eliminating most manual model-building hours, the main cost on FDD engagements.
+- Stress-tests with Federal Reserve CCAR scenario paths joined to FRED macro history. The app then builds a PowerPoint deck (Plotly, python-pptx), with an LLM (gpt-oss-120b on Azure AI Foundry) drafting the chart narratives. The workflow cuts reserve analysis from 4 weeks to 4 days by eliminating most manual model-building hours, the main cost on FDD engagements.
 - Presented firm-wide at an all-hands.
 - Deployed as a Docker container on Azure Container Apps with Azure AD sign-in, per-user data separation and GitHub Actions CI/CD.
 
